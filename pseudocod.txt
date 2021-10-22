@@ -1,0 +1,4 @@
+promt the user to imput a credit card number between 13 and 16 digits using an array
+checksum of the number
+check first digits to see if it's Amex, Visa or Master
+print of the screen the result!
